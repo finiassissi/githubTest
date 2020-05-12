@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is AEF7-48CC
+
+ Directory of C:\Users\anton\Desktop\hai
+
+05/12/2020  12:02 AM    <DIR>          .
+05/12/2020  12:02 AM    <DIR>          ..
+05/11/2020  11:01 PM                 0 hello.txt
+05/12/2020  12:02 AM                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  216,623,431,680 bytes free
